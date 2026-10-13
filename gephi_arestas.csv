@@ -1,0 +1,48 @@
+Source,Target,Weight,Type
+Congresso,Governo/Fazenda,11,Undirected
+Congresso,Pesquisadores/Saúde,1,Undirected
+Governo/Fazenda,Pesquisadores/Saúde,5,Undirected
+Ministério Público,Mídia/Influenciadores,1,Undirected
+Ministério Público,Operadoras/Associações,2,Undirected
+Mídia/Influenciadores,Operadoras/Associações,6,Undirected
+Ministério Público,Pesquisadores/Saúde,1,Undirected
+Bancos/Pagamentos,Congresso,3,Undirected
+Bancos/Pagamentos,Governo/Fazenda,6,Undirected
+Governo/Fazenda,Operadoras/Associações,24,Undirected
+Apostadores/Famílias,Governo/Fazenda,9,Undirected
+Apostadores/Famílias,Pesquisadores/Saúde,4,Undirected
+Operadoras/Associações,STF/Judiciário,9,Undirected
+Governo/Fazenda,STF/Judiciário,6,Undirected
+Congresso,Operadoras/Associações,7,Undirected
+Congresso,STF/Judiciário,4,Undirected
+Cidadãos/opinião pública,Congresso,5,Undirected
+Cidadãos/opinião pública,Governo/Fazenda,3,Undirected
+Bancos/Pagamentos,Operadoras/Associações,5,Undirected
+Governo/Fazenda,Mídia/Influenciadores,4,Undirected
+Governo/Fazenda,Políticos de oposição,2,Undirected
+Mídia/Influenciadores,Políticos de oposição,1,Undirected
+Mídia/Influenciadores,STF/Judiciário,2,Undirected
+Políticos de oposição,STF/Judiciário,1,Undirected
+Governo/Fazenda,Polícia,2,Undirected
+Operadoras/Associações,Polícia,2,Undirected
+Clubes/Futebol,Governo/Fazenda,5,Undirected
+Clubes/Futebol,Mídia/Influenciadores,2,Undirected
+Clubes/Futebol,Polícia,2,Undirected
+Mídia/Influenciadores,Polícia,3,Undirected
+Apostadores/Famílias,Pequenos negócios/Sebrae,2,Undirected
+Clubes/Futebol,Operadoras/Associações,12,Undirected
+Apostadores/Famílias,Clubes/Futebol,1,Undirected
+Apostadores/Famílias,Operadoras/Associações,5,Undirected
+Clubes/Futebol,STF/Judiciário,1,Undirected
+Operadoras/Associações,Pesquisadores/Saúde,1,Undirected
+Apostadores/Famílias,Bancos/Pagamentos,3,Undirected
+Operadoras/Associações,Pequenos negócios/Sebrae,1,Undirected
+Governo/Fazenda,Ministério Público,1,Undirected
+Clubes/Futebol,Ministério Público,1,Undirected
+Ministério Público,Polícia,1,Undirected
+Apostadores/Famílias,Mídia/Influenciadores,1,Undirected
+Apostadores/Famílias,Polícia,1,Undirected
+Apostadores/Famílias,STF/Judiciário,1,Undirected
+Congresso,Mídia/Influenciadores,2,Undirected
+Bancos/Pagamentos,Mídia/Influenciadores,1,Undirected
+Operadoras/Associações,Políticos de oposição,1,Undirected
